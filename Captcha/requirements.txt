@@ -1,5 +1,5 @@
 Django==2.2.4
-djangorestframework==3.11.0
+djangorestframework==3.11.2
 pylint-django==2.0.15
 requests==2.22.0
 django-simple-captcha==0.5.12
